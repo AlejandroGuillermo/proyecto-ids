@@ -1,0 +1,9 @@
+
+¨Estoy acomodando los dispositivos en una topologia tipo anillo para que todos
+ los dispositivos tienen que estar conectados a un router¨
+
+2-¨Modifique la topologuia para que ahora este en forma de arbol¨
+
+3-¨Agregue solo 5 dispositivos conectados a una swich¨
+
+4-¨Conecte la swich a un router y asi ya estan todos los dispositivos conectados¨
