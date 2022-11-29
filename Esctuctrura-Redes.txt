@@ -7,3 +7,9 @@
 3-¨Agregue solo 5 dispositivos conectados a una swich¨
 
 4-¨Conecte la swich a un router y asi ya estan todos los dispositivos conectados¨
+
+5-¨agregue mas dispositivos y los dividi en grupos de 3 y cada uno trae una swich¨
+
+6-¨conecte un servidos para que vaya asignando correos¨
+
+7-¨te mande la estructutra al sistema¨
